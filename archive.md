@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Tất cả hoạt động
 ---
 
 {% for tag in site.tags %}
