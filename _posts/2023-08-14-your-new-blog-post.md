@@ -1,2 +1,2 @@
-<style>color: red<\style>
+<style>color: red;<\style>
 hello
